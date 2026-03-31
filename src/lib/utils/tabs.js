@@ -51,6 +51,11 @@ export const tabs = [
                 label: 'Standings',
                 dest: '/standings',
             },
+              {
+                icon: 'leaderboard',
+                label: 'Plots',
+                dest: '/plots',
+            },
             {
                 icon: 'view_comfy',
                 label: 'Drafts',
